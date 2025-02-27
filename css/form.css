@@ -24,14 +24,10 @@
 
 }
 
-
-
-
-
 .form__button:hover {
     background: hsl(180, 100%, 30%);
     transition: 1s;
-   transform: scale(1.1);
+    transform: scale(1.1);
 }
 
 .form__button:active {
